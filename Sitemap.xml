@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.google.com/schemas/sitemap/0.84" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.google.com/schemas/sitemap/0.84 http://www.google.com/schemas/sitemap/0.84/sitemap.xsd">
+<url>
+<loc>http://localhost/vroby/semplice-nicedit/index.php-page=download</loc>
+<lastmod>24/11/10 09:33</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>http://localhost/vroby/semplice-nicedit/index.php-page=main</loc>
+<lastmod>30/06/15 10:06</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>http://localhost/vroby/semplice-nicedit/index.php-page=sidebar</loc>
+<lastmod>30/06/15 10:12</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>http://localhost/vroby/semplice-nicedit/index.php-page=todo</loc>
+<lastmod>29/11/10 09:21</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>http://localhost/vroby/semplice-nicedit/index.php-page=title</loc>
+<lastmod>30/06/15 10:12</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>http://localhost/vroby/semplice-nicedit/index.php-page=faq</loc>
+<lastmod>23/11/10 06:55</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>http://localhost/vroby/semplice-nicedit/index.php-page=tutorial</loc>
+<lastmod>30/06/15 10:11</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>http://localhost/vroby/semplice-nicedit/index.php-page=footer</loc>
+<lastmod>30/06/15 10:12</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>http://localhost/vroby/semplice-nicedit/index.php-page=home</loc>
+<lastmod>29/11/10 02:10</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>http://localhost/vroby/semplice-nicedit/index.php-page=contatti</loc>
+<lastmod>30/06/15 10:12</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+</urlset>

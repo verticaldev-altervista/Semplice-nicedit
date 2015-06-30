@@ -1,0 +1,120 @@
+/* ********************************************************************** 
+
+Title: 		defaulr theme
+Author: 	vroby
+URL: 			 
+					
+Created: 	20/11/2010
+
+*************************************************************************/
+
+/** GLOBAL SETS **/
+:link,:visited {text-decoration:none}
+a img,:link img,:visited img {border:none}
+
+.clear {clear:both;}
+body {
+	font-family:arial, "lucida Grande", verdana, helvetica, sans-serif;
+	font-size: 14px;
+	background: #FFFFFF url(images/headerbg.png) top left repeat-x;
+	color:#222;
+	}
+.wrapper {
+	margin-left:auto;
+	margin-right:auto;
+	width:950px;
+	}
+		
+/**  STRUCTURE  **/
+/*  Admin  */
+#div-adminframe{	
+	font-size: 12px;
+	border: 5px solid #f00;
+	margin: 2px;
+	padding: 15px 15px;
+}
+#div-adminframe tr {	
+	font-size: 12px;
+	background-color: #eef; 
+}
+#div-adminframe tr:hover {	
+	font-size: 12px;
+	background-color: #88f; 
+}
+#div-adminframe td {	
+	padding-left: 5px;
+	padding-right: 15px;
+}
+#div-adminframe input {
+		font-size : 10px;		
+}	
+
+
+/*  Toolbar  */
+#div-toolbar {
+	font-size: 10px; 
+	background-color: #f0f0f0; 
+}
+#div-toolbar  input {
+		font-size : 10px;		
+}	
+#div-toolbar  a {
+		font-size: 10px;
+}
+
+
+/*  Title  */
+#div-title {
+	display: block;
+	font-size: 16px; 
+	width: 100%;
+	background-color: #e0e0f0; 
+}
+#div-title  textarea{
+	width: 100%;
+}	 
+
+
+/*  Sidebar  */
+#div-sidebar
+{
+	display: block;
+	float: right;
+	margin-top: 5px;
+	margin-left: 0px;
+	margin-bottom: 5px;
+	width: 180px;
+	font-size: 16px; 
+	color: #fff;
+	background-color: #44f;
+}
+#div-sidebar  textarea{
+	width: 100%;	
+}	 
+
+
+/*  Textpage  */
+#div-textpage
+{
+	display: block;
+	left: 0px;
+	margin-right: 185px;
+	font-size: 16px; 
+	background-color: #fff;
+}
+#div-textpage  textarea{
+	width: 100%;	
+}	 
+
+/*  Footer  */
+#div-footer {
+	display: block;
+	float: right;
+	width: 100%;
+	font-size: 16px; 
+	background-color: #88f; 
+	padding: 3px; 
+}
+#div-footer  textarea{
+	width: 100%;
+}	 
